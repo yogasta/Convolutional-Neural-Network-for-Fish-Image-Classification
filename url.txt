@@ -1,0 +1,2 @@
+url dataset = https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset
+url deployment = https://huggingface.co/spaces/Yogasta/Fish_Class_Prediction
